@@ -1,0 +1,10 @@
+1. Git Repo
+2. Clone Git Repo
+3. Environment
+4. Folder Structure
+5. setup.py
+6. requirements.txt
+7. src/cnnClassifier/__init__.py logging
+8. utils
+9. config/config.yaml
+10. entity

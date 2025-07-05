@@ -14,5 +14,9 @@ types-pyYAML
 scipy
 flask
 flask-Cors
-
+box
+python-box
+ensure
+pyyaml
+joblib
 -e .
