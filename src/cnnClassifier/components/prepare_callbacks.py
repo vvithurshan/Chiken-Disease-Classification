@@ -1,7 +1,7 @@
 import os
 import tensorflow as tf
 import time
-from src.cnnClassifier.entity.config_entity import PrepareCallbackConfig
+from cnnClassifier.entity.config_entity import PrepareCallbackConfig
 
 class PrepareCallback:
     def __init__(self, config: PrepareCallbackConfig):
