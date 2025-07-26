@@ -8,7 +8,7 @@ __version__ = "0.0.0"
 REPO_NAME = "cnnClassifier"
 AUTHOR_USER_NAME = "Vithurshan"
 SRC_REPO = "cnnClassifier"
-AUTHOR_EMAIL = "vvithurshan@gamil.com"
+AUTHOR_EMAIL = "user@gamil.com"
 
 setuptools.setup(
     name = SRC_REPO,
